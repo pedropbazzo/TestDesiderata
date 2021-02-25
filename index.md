@@ -1,3 +1,5 @@
+
+
 # Test Desiderata
 
 Here are some properties making tests valuable (links lead to 5-minute videos describing each property with Kent Beck and Kelly Sutton):
